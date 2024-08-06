@@ -1,7 +1,7 @@
 #include "ci24r1.hpp"
 #include <Arduino.h>
 
-sdf
+
 #define CI24R1_MODE 1
 
 uint8_t TX_ADDRESS[5]={0x34,0x43,0x10,0x10,0x01};
