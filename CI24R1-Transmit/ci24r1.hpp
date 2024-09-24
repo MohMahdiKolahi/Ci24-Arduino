@@ -21,8 +21,8 @@
 #define CI24R1_PLOAD_WIDTH       16  // Payload width, 0:dynamic, [1,32]:fixed
 
 #define CI24R1_CSN  8
-#define CI24R1_MOSI 12
-#define CI24R1_SCK  13
+#define CI24R1_MOSI 9
+#define CI24R1_SCK  10
 //////////////////
 
 
